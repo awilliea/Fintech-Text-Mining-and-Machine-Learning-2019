@@ -23,4 +23,11 @@
 NFTY、KALL這兩檔ETF在homepage以及yahoo_finance都無法取得完整的資料（只從2018開始）
 
 ### 流程圖
+整體流程圖
+
 ![Imgur](https://i.imgur.com/PWKxBP1.png)
+
+
+爬yahoo_finance 流程圖
+
+![Imgur](https://i.imgur.com/SIaVFTC.png)
