@@ -20,7 +20,7 @@
 5. 網路速度較慢者，可把get_single_symbol中的wait參數調大一點，不然下載下來的數據可能會不完整或是重複下載
 
 ### Current problems
-NFTY、KALL這兩檔ETF在homepage以及yahoo_finance都無法取得完整的資料（只從2018開始）
+NFTY、KALL、YAO這三檔ETF在homepage以及yahoo_finance都無法取得完整的資料（只從2018開始）
 
 ### 流程圖
 整體流程圖
