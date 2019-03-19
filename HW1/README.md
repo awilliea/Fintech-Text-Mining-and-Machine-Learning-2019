@@ -25,7 +25,7 @@ NFTY、KALL、YAO這三檔ETF在homepage以及yahoo_finance都無法取得完整
 ### 流程圖
 整體流程圖
 
-![Imgur](https://i.imgur.com/PWKxBP1.png)
+![Imgur](https://i.imgur.com/wiha4Hu.png)
 
 
 爬yahoo_finance 流程圖
